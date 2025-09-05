@@ -31,7 +31,7 @@ It allows users to upload a skin image, analyze it, and instantly receive predic
 🚀 Installation & Usage
 
 1. Clone the repository
-git clone https://github.com/your-username/dermo.git
+git clone https://github.com/HimanshuChauragade/dermo.git
 cd dermo
 
 2. Install dependencies
