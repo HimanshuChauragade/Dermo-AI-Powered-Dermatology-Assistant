@@ -22,13 +22,10 @@ It allows users to upload a skin image, analyze it, and instantly receive predic
 
 📂 Project Structure
 
-├── dermo.py # Main application with GUI + AI model integration
-
-├── keras_model.h5 # Pre-trained Keras model for skin condition detection
-
-├── Use of ai in dermatology.pptx # Project presentation
-
-├── README.md # Project documentation
+├── dermo.py # Main application with GUI + AI model integration </br>
+├── keras_model.h5 # Pre-trained Keras model for skin condition detection </br>
+├── Use of ai in dermatology.pptx # Project presentation </br>
+├── README.md # Project documentation </br>
 
 ---
 
@@ -39,17 +36,15 @@ git clone https://github.com/HimanshuChauragade/dermo.git
 
 2. cd dermo
 
-3. Install dependencies
-
-Make sure you have Python 3.8+ installed. Then run:
+3. Install dependencies </br>
+Make sure you have Python 3.8+ installed.  </br>
+Then run:
 pip install tensorflow opencv-python numpy
 
 4. Run the application
 python dermo.py
 
 4. Usage
-Click Browse... to select an image (.jpg, .jpeg, .png, .svg).
-
-The AI model will classify the skin condition.
-
+Click Browse... to select an image (.jpg, .jpeg, .png, .svg). </br> </br>
+The AI model will classify the skin condition. </br>
 The result will be shown in the GUI, and you can click on links to learn more.
